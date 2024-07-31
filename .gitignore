@@ -1,0 +1,9 @@
+.cartesi
+.venv
+/issuer
+/dependencies
+*.jpg
+cmds.txt
+commands.txt
+*.env
+*.toml

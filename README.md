@@ -1,2 +1,3 @@
-# DOCR
-A decentralized OCR application built with cartesi &amp;  tesseract-ocr engine
+# D-OCR
+
+A decentralized OCR solution for transparent document compilation

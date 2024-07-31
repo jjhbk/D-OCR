@@ -1,0 +1,3 @@
+[submodule "document-scanner-frontend"]
+	path = document-scanner-frontend
+	url = https://github.com/jjhbk/document-scanner-frontend
