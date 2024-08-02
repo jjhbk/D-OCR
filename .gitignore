@@ -7,3 +7,4 @@ cmds.txt
 commands.txt
 *.env
 *.toml
+*.sample

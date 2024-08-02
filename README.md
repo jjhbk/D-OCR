@@ -22,3 +22,10 @@ yarn
 yarn run dev
 
 ```
+
+---
+
+## Demo & Links
+
+(Live-Demo)[https://drive.google.com/file/d/1X3aWs9gm51bNBgj1Fz1efY-bb06rXeWV/view?usp=sharing]
+(demo-video)[https://document-scanner-mauve.vercel.app/]
